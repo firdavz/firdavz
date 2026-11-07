@@ -2,6 +2,4 @@
   <img src="./banner.svg" alt="Firdavs, fintech tools" width="100%" />
 </p>
 
-# Hi Im Firdavs ! 
-
-# I build stuff
+<p align="center"><i>I build stuff</i></p>
