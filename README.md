@@ -1,6 +1,3 @@
-# Hi, I'm Firdavs 👋
-
-I build stuff
-
-Business student in London and builder in AI and fintech. I love hackathons, shipping fast, and turning ideas into real products.
-
+<p align="center">
+  <img src="./banner.png" alt="Firdavs, fintech tools" width="100%">
+</p>
