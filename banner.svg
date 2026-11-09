@@ -104,12 +104,12 @@
   </g>
   <rect class="cursor" x="42" y="246" width="11" height="20" fill="#ffffff" filter="url(#shine)"/>
 
-  <!-- status panel -->
+  <!-- pipeline panel -->
   <line x1="790" y1="84" x2="790" y2="292" stroke="#22427e" stroke-width="1"/>
   <rect x="822" y="88" width="344" height="200" rx="10" fill="#5b97ff" fill-opacity="0.06" stroke="#2e559c"/>
-  <text class="ptitle" x="846" y="124" filter="url(#soft)">GITHUB // OUTPUT</text>
+  <text class="ptitle" x="846" y="124" filter="url(#soft)">SYSTEM // PIPELINE</text>
   <line x1="846" y1="140" x2="1142" y2="140" stroke="#2e559c" stroke-width="1"/>
-  <text class="lbl" x="846" y="184">ORIGINAL REPOS</text><text class="val" x="1140" y="184" text-anchor="end" filter="url(#soft)">16</text><text class="lbl" x="846" y="220">PUBLIC REPOS</text><text class="val" x="1140" y="220" text-anchor="end" filter="url(#soft)">10</text><text class="lbl" x="846" y="256">ACTIVE PROJECTS</text><text class="val" x="1140" y="256" text-anchor="end" filter="url(#soft)">9</text>
+  <text class="lbl" x="846" y="184">INPUT</text><text class="val" x="1140" y="184" text-anchor="end" filter="url(#soft)">MESSY FINANCE DATA</text><text class="lbl" x="846" y="220">PROCESS</text><text class="val" x="1140" y="220" text-anchor="end" filter="url(#soft)">CLEAN LOGIC</text><text class="lbl" x="846" y="256">OUTPUT</text><text class="val" x="1140" y="256" text-anchor="end" filter="url(#soft)">SIMPLE TOOLS</text>
 
   <!-- footer -->
   <text class="stack" x="40" y="330">PYTHON // TYPESCRIPT // SQL</text>
